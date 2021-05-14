@@ -6,4 +6,4 @@
 - 💬 Ask me about philosophy
 - 📫 How to reach me: stevenpmcfarlane@gmail.com
 
-
+Just a teacher who learned to code. Always looking to learn more
